@@ -3,6 +3,8 @@
   "Title": "Update available",
   "Description": "Please update the latest version of this app to continue. Click the link below to update",
   "MainTextButton": "Update now",
-  "DownloadLink": "https://devhis.com/appstore/earnclub.apk",
-  "Version": "1.0"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.setfiveg.network",
+  "Version": "1.0",
+  "AdMobBanner": "ca-app-pub-1844331018540624/2005798389",
+  "AdMobInterstitial": "ca-app-pub-1844331018540624/5753471702"
 }
