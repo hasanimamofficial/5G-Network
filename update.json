@@ -5,7 +5,7 @@
   "MainTextButton": "Update now",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.setfiveg.network",
   "Version": "1.4",
-  "AdsControl": "false",
+  "AdsControl": "true",
   "ButtonLink": "https://youtu.be/khBPC3I4pEc",
-  "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712"
+  "AdMobInterstitial": "ca-app-pub-5331470086304439/5607796427"
 }
